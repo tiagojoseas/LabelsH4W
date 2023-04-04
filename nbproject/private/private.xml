@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/LabelsH4W/src/labelsh4w/Encomenda.java</file>
-            <file>file:/D:/LabelsH4W/src/labelsh4w/MainFrame.java</file>
+            <file>file:/D:/LabelsH4W/src/org/me/labelsh4w/MainEncomenda.java</file>
+            <file>file:/D:/LabelsH4W/src/org/me/labelsh4w/MainFrame.java</file>
+            <file>file:/D:/LabelsH4W/src/org/me/labelsh4w/PartialEncomenda.java</file>
         </group>
     </open-files>
 </project-private>
